@@ -1,0 +1,64 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Region,Quantity,Unit_Price,Discount,Payment_Method,Gross_Sales,Net_Sales,Year,Month,Outlier_Reason
+ORD0007,2025-01-27,CUST022,Monitor,Electronics,North,4,177.03,0.05,Net Banking,708.12,672.7139999999999,2025,2025-01,Net_Sales outside 1.5*IQR fences
+ORD0024,2025-10-09,CUST072,Monitor,Electronics,North,4,181.49,0.0,Upi,725.96,725.96,2025,2025-10,Net_Sales outside 1.5*IQR fences
+ORD0034,2025-06-18,CUST046,Monitor,Electronics,West,4,180.98,0.0,Cash,723.92,723.92,2025,2025-06,Net_Sales outside 1.5*IQR fences
+ORD0038,2025-09-09,CUST002,Monitor,Electronics,South,3,189.17,0.1,Net Banking,567.51,510.759,2025,2025-09,Net_Sales outside 1.5*IQR fences
+ORD0048,2025-09-29,CUST110,Monitor,Electronics,East,4,169.85,0.0,Net Banking,679.4,679.4,2025,2025-09,Net_Sales outside 1.5*IQR fences
+ORD0053,2025-04-21,CUST102,Monitor,Electronics,North,5,192.58,0.15,Upi,962.9000000000001,818.465,2025,2025-04,Net_Sales outside 1.5*IQR fences
+ORD0056,2025-01-14,CUST076,Monitor,Electronics,North,3,191.51,0.1,Cash,574.53,517.077,2025,2025-01,Net_Sales outside 1.5*IQR fences
+ORD0058,2025-02-16,CUST033,Monitor,Electronics,West,4,169.64,0.0,Card,678.56,678.56,2025,2025-02,Net_Sales outside 1.5*IQR fences
+ORD0066,2025-04-10,CUST070,Monitor,Electronics,North,5,173.93,0.05,Net Banking,869.6500000000001,826.1675,2025,2025-04,Net_Sales outside 1.5*IQR fences
+ORD0088,2025-04-05,CUST100,Monitor,Electronics,North,4,162.58,0.05,Card,650.32,617.804,2025,2025-04,Net_Sales outside 1.5*IQR fences
+ORD0089,2025-08-22,CUST086,Monitor,Electronics,South,4,176.74,0.15,Upi,706.96,600.916,2025,2025-08,Net_Sales outside 1.5*IQR fences
+ORD0092,2025-09-02,CUST038,Monitor,Electronics,South,5,192.58,0.05,Card,962.9000000000001,914.755,2025,2025-09,Net_Sales outside 1.5*IQR fences
+ORD0099,2025-07-13,CUST040,Monitor,Electronics,North,3,177.55,0.05,Cash,532.6500000000001,506.01750000000004,2025,2025-07,Net_Sales outside 1.5*IQR fences
+ORD0103,2025-09-02,CUST024,Monitor,Electronics,South,4,173.57,0.0,Cash,694.28,694.28,2025,2025-09,Net_Sales outside 1.5*IQR fences
+ORD0137,2025-07-03,CUST046,Monitor,Electronics,South,4,193.71,0.1,Net Banking,774.84,697.356,2025,2025-07,Net_Sales outside 1.5*IQR fences
+ORD0140,2025-05-13,CUST004,Monitor,Electronics,North,3,188.82,0.1,Cash,566.46,509.814,2025,2025-05,Net_Sales outside 1.5*IQR fences
+ORD0142,2025-03-07,CUST103,Monitor,Electronics,Unknown,4,171.41,0.05,Card,685.64,651.358,2025,2025-03,Net_Sales outside 1.5*IQR fences
+ORD0150,2025-01-18,CUST072,Monitor,Electronics,East,5,189.75,0.1,Net Banking,948.75,853.875,2025,2025-01,Net_Sales outside 1.5*IQR fences
+ORD0152,2025-03-27,CUST044,Monitor,Electronics,West,3,167.32,0.0,Upi,501.96,501.96,2025,2025-03,Net_Sales outside 1.5*IQR fences
+ORD0164,2025-05-04,CUST058,Monitor,Electronics,North,4,179.36,0.15,Card,717.44,609.8240000000001,2025,2025-05,Net_Sales outside 1.5*IQR fences
+ORD0167,2025-04-08,CUST039,Monitor,Electronics,West,3,184.26,0.0,Net Banking,552.78,552.78,2025,2025-04,Net_Sales outside 1.5*IQR fences
+ORD0199,2025-04-14,CUST085,Monitor,Electronics,North,4,162.75,0.05,Upi,651.0,618.4499999999999,2025,2025-04,Net_Sales outside 1.5*IQR fences
+ORD0207,2025-08-21,CUST050,Monitor,Electronics,North,3,196.86,0.15,Card,590.58,501.993,2025,2025-08,Net_Sales outside 1.5*IQR fences
+ORD0209,2025-03-22,CUST016,Monitor,Electronics,South,4,185.54,0.0,Cash,742.16,742.16,2025,2025-03,Net_Sales outside 1.5*IQR fences
+ORD0224,2025-03-03,CUST063,Monitor,Electronics,North,5,177.01,0.05,Card,885.05,840.7974999999999,2025,2025-03,Net_Sales outside 1.5*IQR fences
+ORD0226,2025-04-04,CUST013,Monitor,Electronics,North,4,184.57,0.05,Net Banking,738.28,701.366,2025,2025-04,Net_Sales outside 1.5*IQR fences
+ORD0231,2025-05-21,CUST076,Monitor,Electronics,East,5,177.63,0.15,Net Banking,888.15,754.9275,2025,2025-05,Net_Sales outside 1.5*IQR fences
+ORD0252,2025-05-31,CUST089,Monitor,Electronics,North,5,185.14,0.1,Net Banking,925.6999999999999,833.13,2025,2025-05,Net_Sales outside 1.5*IQR fences
+ORD0254,2025-04-11,CUST093,Monitor,Electronics,West,3,192.1,0.0,Cash,576.3,576.3,2025,2025-04,Net_Sales outside 1.5*IQR fences
+ORD0271,2025-03-31,CUST117,Monitor,Electronics,West,5,180.41,0.1,Net Banking,902.05,811.845,2025,2025-03,Net_Sales outside 1.5*IQR fences
+ORD0288,2025-06-23,CUST054,Monitor,Electronics,East,5,163.59,0.15,Net Banking,817.95,695.2575,2025,2025-06,Net_Sales outside 1.5*IQR fences
+ORD0294,2025-04-11,CUST051,Monitor,Electronics,South,3,197.92,0.05,Net Banking,593.76,564.072,2025,2025-04,Net_Sales outside 1.5*IQR fences
+ORD0313,2025-02-06,CUST115,Monitor,Electronics,West,5,198.14,0.0,Card,990.6999999999999,990.6999999999999,2025,2025-02,Net_Sales outside 1.5*IQR fences
+ORD0317,2025-08-11,CUST077,Monitor,Electronics,West,4,187.53,0.0,Card,750.12,750.12,2025,2025-08,Net_Sales outside 1.5*IQR fences
+ORD0320,2025-08-22,CUST021,Monitor,Electronics,South,5,196.08,0.1,Upi,980.4000000000001,882.3600000000001,2025,2025-08,Net_Sales outside 1.5*IQR fences
+ORD0328,2025-01-12,CUST107,Monitor,Electronics,West,4,172.72,0.05,Upi,690.88,656.336,2025,2025-01,Net_Sales outside 1.5*IQR fences
+ORD0330,2025-06-18,CUST051,Monitor,Electronics,West,5,168.98,0.0,Upi,844.9,844.9,2025,2025-06,Net_Sales outside 1.5*IQR fences
+ORD0340,2025-10-17,CUST108,Monitor,Electronics,East,5,181.45,0.0,Cash,907.25,907.25,2025,2025-10,Net_Sales outside 1.5*IQR fences
+ORD0351,2025-06-12,CUST038,Monitor,Electronics,East,3,180.4,0.15,Cash,541.2,460.02000000000004,2025,2025-06,Net_Sales outside 1.5*IQR fences
+ORD0371,2025-04-13,CUST100,Monitor,Electronics,West,5,180.61,0.15,Cash,903.0500000000001,767.5925000000001,2025,2025-04,Net_Sales outside 1.5*IQR fences
+ORD0375,2025-09-27,CUST013,Monitor,Electronics,East,5,170.2,0.0,Card,851.0,851.0,2025,2025-09,Net_Sales outside 1.5*IQR fences
+ORD0381,2025-01-02,CUST007,Monitor,Electronics,North,4,166.25,0.0,Upi,665.0,665.0,2025,2025-01,Net_Sales outside 1.5*IQR fences
+ORD0401,2025-10-31,CUST091,Monitor,Electronics,East,5,184.28,0.0,Net Banking,921.4,921.4,2025,2025-10,Net_Sales outside 1.5*IQR fences
+ORD0402,2025-08-25,CUST100,Monitor,Electronics,West,4,172.19,0.1,Card,688.76,619.884,2025,2025-08,Net_Sales outside 1.5*IQR fences
+ORD0460,2025-02-02,CUST025,Monitor,Electronics,Unknown,3,186.79,0.15,Card,560.37,476.3145,2025,2025-02,Net_Sales outside 1.5*IQR fences
+ORD0462,2025-02-12,CUST042,Monitor,Electronics,West,5,199.57,0.0,Cash,997.8499999999999,997.8499999999999,2025,2025-02,Net_Sales outside 1.5*IQR fences
+ORD0472,2025-09-02,CUST058,Monitor,Electronics,North,5,181.26,0.1,Cash,906.3,815.67,2025,2025-09,Net_Sales outside 1.5*IQR fences
+ORD0473,2025-05-12,CUST089,Monitor,Electronics,West,5,164.65,0.05,Upi,823.25,782.0875,2025,2025-05,Net_Sales outside 1.5*IQR fences
+ORD0486,2025-03-12,CUST108,Monitor,Electronics,West,4,191.59,0.0,Cash,766.36,766.36,2025,2025-03,Net_Sales outside 1.5*IQR fences
+ORD0488,2025-06-11,CUST024,Monitor,Electronics,East,5,168.12,0.05,Card,840.6,798.5699999999999,2025,2025-06,Net_Sales outside 1.5*IQR fences
+ORD0494,2025-07-03,CUST009,Monitor,Electronics,North,3,189.92,0.0,Net Banking,569.76,569.76,2025,2025-07,Net_Sales outside 1.5*IQR fences
+ORD0512,2025-08-15,CUST105,Monitor,Electronics,East,5,201.4,0.1,Upi,1007.0,906.3000000000001,2025,2025-08,Net_Sales outside 1.5*IQR fences
+ORD0527,2025-10-08,CUST069,Monitor,Electronics,East,5,162.17,0.0,Upi,810.8499999999999,810.8499999999999,2025,2025-10,Net_Sales outside 1.5*IQR fences
+ORD0528,2025-02-13,CUST005,Monitor,Electronics,West,3,201.37,0.15,Upi,604.11,513.4935,2025,2025-02,Net_Sales outside 1.5*IQR fences
+ORD0536,2025-02-16,CUST088,Monitor,Electronics,East,5,171.74,0.15,Upi,858.7,729.895,2025,2025-02,Net_Sales outside 1.5*IQR fences
+ORD0550,2025-07-26,CUST094,Monitor,Electronics,East,4,167.08,0.0,Card,668.32,668.32,2025,2025-07,Net_Sales outside 1.5*IQR fences
+ORD0561,2025-06-13,CUST048,Monitor,Electronics,North,5,200.97,0.15,Card,1004.85,854.1225,2025,2025-06,Net_Sales outside 1.5*IQR fences
+ORD0568,2025-03-17,CUST100,Monitor,Electronics,North,4,188.08,0.15,Cash,752.32,639.472,2025,2025-03,Net_Sales outside 1.5*IQR fences
+ORD0572,2025-05-07,CUST048,Monitor,Electronics,West,5,163.22,0.15,Card,816.1,693.685,2025,2025-05,Net_Sales outside 1.5*IQR fences
+ORD0584,2025-01-16,CUST111,Monitor,Electronics,East,5,197.75,0.1,Net Banking,988.75,889.875,2025,2025-01,Net_Sales outside 1.5*IQR fences
+ORD0585,2025-05-03,CUST035,Monitor,Electronics,North,5,168.7,0.05,Card,843.5,801.3249999999999,2025,2025-05,Net_Sales outside 1.5*IQR fences
+ORD0591,2025-09-01,CUST050,Monitor,Electronics,North,3,190.22,0.1,Upi,570.66,513.5939999999999,2025,2025-09,Net_Sales outside 1.5*IQR fences
+ORD0596,2025-09-01,CUST010,Monitor,Electronics,East,4,195.91,0.15,Card,783.64,666.0939999999999,2025,2025-09,Net_Sales outside 1.5*IQR fences
